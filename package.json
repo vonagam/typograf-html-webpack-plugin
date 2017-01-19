@@ -1,0 +1,17 @@
+{
+  "name": "typograf-html-webpack-plugin",
+  "description": "Typograf html outputed by html-webpack-plugin",
+  "version": "0.0.1",
+  "repository": "vonagam/typograf-html-webpack-plugin",
+  "author": "Dmitry Maganov <vonagam@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "typograf"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "typograf": "^5.8.0"
+  }
+}
